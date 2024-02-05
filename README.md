@@ -4,12 +4,13 @@
 Hola, soy Alejandro Diaz, estudiante de Ingeniería Civil Informática en la Universidad de Valparaíso. Apasionado por el desarrollo tecnológico, me especializo en crear soluciones innovadoras desde el front-end hasta el back-end.
 
 ### 🛠️ Proyectos Destacados
-- **Aplicación Móvil con React Native**: Mi primer proyecto profesional, donde me sumergí en JavaScript y React Native.
-- **Turin**: Contribuí al éxito de este proyecto turístico, optimizando el código y liderando el desarrollo front-end.
-- **No-Pain VR**: Desarrollé un prototipo de juego en realidad virtual para mejorar la calidad de vida de personas con movilidad limitada.
+- **[Desafio Black Nexus](https://github.com/IxyzDev/Django-Nextjs14-CRUD)**: Un proyecto utilizando Nextjs 13 junto con Django para el backend
+- **[Repostorio para ciencia de datos](https://github.com/IxyzDev/UV-Ciencia_de_datos)**: Repositorio con todo lo necesario para desenvolverse en ciencias de datos
+- **[Beyond The Scope](https://github.com/IxyzDev/BeyondTheScope)**: Proyecto personal de FabLab trabajado con realidad virtual
 
 ### 💼 Experiencia
-- **FabLab UV**: Actualmente, soy instructor y programador de robótica, donde promuevo la educación tecnológica entre los jóvenes.
+- **FabLab UV**: Instructor y programador de robótica, promuevo la educación tecnológica entre los jóvenes.
+- **Black Nexus**: Lider del equipo de Frontend en el desarrollo de una aplicacion Web POS
 
 ### 📚 Educación
 - **Ingeniería Civil Informática**, Universidad de Valparaíso (2020 - Actualidad)
