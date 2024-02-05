@@ -1,7 +1,3 @@
-Para crear un `README.md` que destaque en tu perfil de GitHub y refleje tu currículum, podrías considerar una estructura como la siguiente:
-
----
-
 ### 👨‍💻 Sobre Mí
 Hola, soy Alejandro Diaz, estudiante de Ingeniería Civil Informática en la Universidad de Valparaíso. Apasionado por el desarrollo tecnológico, me especializo en crear soluciones innovadoras desde el front-end hasta el back-end.
 
@@ -26,7 +22,3 @@ Hola, soy Alejandro Diaz, estudiante de Ingeniería Civil Informática en la Uni
 - Español
 
 ¡Gracias por visitar mi perfil! Para más información sobre mis proyectos y experiencias, sígueme aquí en GitHub.
-
----
-
-Este resumen captura la esencia de tu currículum, destacando tus habilidades, proyectos y experiencia de manera concisa. Asegúrate de personalizar cada sección para reflejar tus logros y ambiciones únicas.
