@@ -1,5 +1,8 @@
 <h1 align="center">¡Hola buenas!, Soy Alejandro Diaz</h1>
 
+![Banner](./img/Banner.png)
+
+
 ### 👨‍💻 Sobre Mí
 Hola, soy Alejandro Diaz, estudiante de Ingeniería Civil Informática en la Universidad de Valparaíso. Apasionado por el desarrollo tecnológico, me especializo en crear soluciones innovadoras desde el front-end hasta el back-end.
 
