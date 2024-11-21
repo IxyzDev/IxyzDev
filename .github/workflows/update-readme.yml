@@ -1,0 +1,33 @@
+name: Update README with Organizations
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Corre diariamente a medianoche
+  workflow_dispatch: # Permite ejecución manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Organizations
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -H "Authorization: token $GITHUB_TOKEN" \
+            https://api.github.com/user/orgs \
+            | jq -r '.[] | "- [\(.login)](https://github.com/\(.login))"' > orgs.md
+
+      - name: Update README
+        run: |
+          sed -i '/<!-- ORGANIZATIONS_START -->/,/<!-- ORGANIZATIONS_END -->/c\
+          <!-- ORGANIZATIONS_START -->\n'$(cat orgs.md)'\n<!-- ORGANIZATIONS_END -->' README.md
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update organizations list"
+          git push

@@ -15,6 +15,13 @@ Hola, soy Alejandro Diaz, estudiante de Ingeniería Civil Informática en la Uni
 - **FabLab UV**: Instructor y programador de robótica, promuevo la educación tecnológica entre los jóvenes.
 - **Black Nexus**: Lider del equipo de Frontend en el desarrollo de una aplicacion Web POS
 
+### 🏢 Organizaciones
+
+<!-- ORGANIZATIONS_START -->
+Aquí aparecerán tus organizaciones...
+<!-- ORGANIZATIONS_END -->
+
+
 ### 📚 Educación
 - **Ingeniería Civil Informática**, Universidad de Valparaíso (2020 - Actualidad)
 
