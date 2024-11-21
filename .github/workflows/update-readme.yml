@@ -14,9 +14,9 @@ jobs:
 
       - name: Fetch Organizations
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # Nombre del secreto
         run: |
-          curl -H "Authorization: token $GITHUB_TOKEN" \
+          curl -H "Authorization: token $PERSONAL_ACCESS_TOKEN" \
             https://api.github.com/user/orgs \
             | jq -r '.[] | "- [\(.login)](https://github.com/\(.login))"' > orgs.md
 
