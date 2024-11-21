@@ -18,7 +18,11 @@ Hola, soy Alejandro Diaz, estudiante de Ingeniería Civil Informática en la Uni
 ### 🏢 Organizaciones
 
 <!-- ORGANIZATIONS_START -->
-Aquí aparecerán tus organizaciones...
+- [NewHorizon-AI](https://github.com/NewHorizon-AI)
+- [Consolidado-Universidad](https://github.com/Consolidado-Universidad)
+- [Reiniciatec](https://github.com/Reiniciatec)
+- [FabLab-Projects](https://github.com/FabLab-Projects)
+- [Talleres-FabLab](https://github.com/Talleres-FabLab)
 <!-- ORGANIZATIONS_END -->
 
 
