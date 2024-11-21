@@ -25,8 +25,12 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i '/<!-- ORGANIZATIONS_START -->/,/<!-- ORGANIZATIONS_END -->/c\\
-          <!-- ORGANIZATIONS_START -->\n'"$(cat orgs.md)"'\n<!-- ORGANIZATIONS_END -->' README.md
+          awk '
+            BEGIN {inside=0}
+            /<!-- ORGANIZATIONS_START -->/ {inside=1; print; while (getline line < "orgs.md") print line; next}
+            /<!-- ORGANIZATIONS_END -->/ {inside=0}
+            !inside' README.md > README.tmp
+          mv README.tmp README.md
 
       - name: Commit Changes
         run: |
