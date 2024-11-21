@@ -25,7 +25,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i '/<!-- ORGANIZATIONS_START -->/,/<!-- ORGANIZATIONS_END -->/c\
+          sed -i '/<!-- ORGANIZATIONS_START -->/,/<!-- ORGANIZATIONS_END -->/c\\
           <!-- ORGANIZATIONS_START -->\n'"$(cat orgs.md)"'\n<!-- ORGANIZATIONS_END -->' README.md
 
       - name: Commit Changes
