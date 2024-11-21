@@ -20,10 +20,13 @@ jobs:
             https://api.github.com/user/orgs \
             | jq -r '.[] | "- [\(.login)](https://github.com/\(.login))"' > orgs.md
 
+      - name: Verificar contenido de orgs.md
+        run: cat orgs.md
+
       - name: Update README
         run: |
           sed -i '/<!-- ORGANIZATIONS_START -->/,/<!-- ORGANIZATIONS_END -->/c\
-          <!-- ORGANIZATIONS_START -->\n'$(cat orgs.md)'\n<!-- ORGANIZATIONS_END -->' README.md
+          <!-- ORGANIZATIONS_START -->\n'"$(cat orgs.md)"'\n<!-- ORGANIZATIONS_END -->' README.md
 
       - name: Commit Changes
         run: |
