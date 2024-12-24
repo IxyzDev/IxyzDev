@@ -6,6 +6,8 @@
 ### 👨‍💻 Sobre Mí
 Hola, soy Alejandro Diaz, estudiante de Ingeniería Civil Informática en la Universidad de Valparaíso. Apasionado por el desarrollo tecnológico, me especializo en crear soluciones innovadoras desde el front-end hasta el back-end.
 
+* **Visita mis Gists ⭐**: [https://gist.github.com/IxyzDev](https://gist.github.com/IxyzDev)
+
 ### 🛠️ Proyectos Destacados
 - **[Desafio Black Nexus](https://github.com/IxyzDev/Django-Nextjs14-CRUD)**: Un proyecto utilizando Nextjs 13 junto con Django para el backend
 - **[Repostorio para ciencia de datos](https://github.com/IxyzDev/UV-Ciencia_de_datos)**: Repositorio con todo lo necesario para desenvolverse en ciencias de datos
