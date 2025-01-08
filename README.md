@@ -25,6 +25,7 @@ Hola, soy Alejandro Diaz, estudiante de Ingeniería Civil Informática en la Uni
 - [Reiniciatec](https://github.com/Reiniciatec)
 - [FabLab-Projects](https://github.com/FabLab-Projects)
 - [Talleres-FabLab](https://github.com/Talleres-FabLab)
+- [ixyzdev-templates](https://github.com/ixyzdev-templates)
 <!-- ORGANIZATIONS_END -->
 
 
