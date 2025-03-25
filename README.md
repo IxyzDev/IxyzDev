@@ -27,7 +27,7 @@ Hola, soy Alejandro Diaz, estudiante de Ingeniería Civil Informática en la Uni
 - [Talleres-FabLab](https://github.com/Talleres-FabLab)
 - [ixyzdev-templates](https://github.com/ixyzdev-templates)
 - [BioQX-CL](https://github.com/BioQX-CL)
-- [HexFrame](https://github.com/HexFrame)
+- [Schemify](https://github.com/Schemify)
 <!-- ORGANIZATIONS_END -->
 
 
