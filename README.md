@@ -2,8 +2,6 @@
 
 ![Banner](https://github.com/IxyzDev/IxyzDev/blob/main/img/Banner.png?raw=true)
 
-
-
 ### 👨‍💻 Sobre mí
 
 Soy estudiante de Ingeniería Civil Informática en la Universidad de Valparaíso, apasionado por la tecnología y el desarrollo de software. Me encanta crear soluciones innovadoras tanto en el front-end como en el back-end, y tengo experiencia en proyectos reales de impacto social y educativo.
@@ -12,19 +10,14 @@ Soy estudiante de Ingeniería Civil Informática en la Universidad de Valparaís
 
 ### 🚀 Proyectos Destacados
 
-- **[Desafío Black Nexus](https://github.com/IxyzDev/Django-Nextjs14-CRUD)**  
-  Aplicación CRUD moderna con **Next.js 13 + Django**. Arquitectura desacoplada, SSR y autenticación JWT.
+- **[BioQX 3D Slicer](https://github.com/BioQX-CL/bioqx-3d-slicer)**  
+  Plataforma de visualización 3D médica interactiva para planificación quirúrgica. Utiliza la biblioteca **O3DViewer** para renderizar modelos anatómicos en tiempo real con enfoque educativo y clínico.
 
-- **[Ciencia de Datos UV](https://github.com/IxyzDev/UV-Ciencia_de_datos)**  
-  Repositorio completo para comenzar en ciencia de datos: notebooks, visualización y ML.
+- **[Schemify NestJS](https://github.com/Schemify/schemify-nestjs)**  
+  Backend modular construido con **NestJS**, usando arquitectura **hexagonal (Ports & Adapters)** y principios **DDD**. Diseñado como microservicios reutilizables para acelerar el desarrollo de nuevas soluciones empresariales.
 
 - **[Beyond The Scope](https://github.com/IxyzDev/BeyondTheScope)**  
-  Proyecto personal de realidad virtual desarrollado en Unity y Oculus Quest 2 en colaboración con FabLab.
-
-
-### 💼 Experiencia
-- **FabLab UV**: Instructor y programador de robótica, promuevo la educación tecnológica entre los jóvenes.
-- **Black Nexus**: Lider del equipo de Frontend en el desarrollo de una aplicacion Web POS
+  Proyecto de realidad virtual desarrollado con **Unity** y **Oculus Quest 2** en el FabLab UV. Busca explorar nuevas formas de interacción educativa e inmersiva.
 
 ### 🏢 Organizaciones
 
