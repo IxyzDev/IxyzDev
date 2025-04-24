@@ -1,17 +1,26 @@
-<h1 align="center">¡Hola buenas!, Soy Alejandro Diaz</h1>
+<h1 align="center">👋 ¡Hola! Soy Alejandro Díaz</h1>
 
-![Banner](./img/Banner.png)
+![Banner](https://github.com/IxyzDev/IxyzDev/blob/main/img/Banner.png?raw=true)
 
 
-### 👨‍💻 Sobre Mí
-Hola, soy Alejandro Diaz, estudiante de Ingeniería Civil Informática en la Universidad de Valparaíso. Apasionado por el desarrollo tecnológico, me especializo en crear soluciones innovadoras desde el front-end hasta el back-end.
 
-* **Visita mis Gists ⭐**: [https://gist.github.com/IxyzDev](https://gist.github.com/IxyzDev)
+### 👨‍💻 Sobre mí
 
-### 🛠️ Proyectos Destacados
-- **[Desafio Black Nexus](https://github.com/IxyzDev/Django-Nextjs14-CRUD)**: Un proyecto utilizando Nextjs 13 junto con Django para el backend
-- **[Repostorio para ciencia de datos](https://github.com/IxyzDev/UV-Ciencia_de_datos)**: Repositorio con todo lo necesario para desenvolverse en ciencias de datos
-- **[Beyond The Scope](https://github.com/IxyzDev/BeyondTheScope)**: Proyecto personal de FabLab trabajado con realidad virtual
+Soy estudiante de Ingeniería Civil Informática en la Universidad de Valparaíso, apasionado por la tecnología y el desarrollo de software. Me encanta crear soluciones innovadoras tanto en el front-end como en el back-end, y tengo experiencia en proyectos reales de impacto social y educativo.
+
+🔗 Revisa mis gists favoritos: [gist.github.com/IxyzDev](https://gist.github.com/IxyzDev)
+
+### 🚀 Proyectos Destacados
+
+- **[Desafío Black Nexus](https://github.com/IxyzDev/Django-Nextjs14-CRUD)**  
+  Aplicación CRUD moderna con **Next.js 13 + Django**. Arquitectura desacoplada, SSR y autenticación JWT.
+
+- **[Ciencia de Datos UV](https://github.com/IxyzDev/UV-Ciencia_de_datos)**  
+  Repositorio completo para comenzar en ciencia de datos: notebooks, visualización y ML.
+
+- **[Beyond The Scope](https://github.com/IxyzDev/BeyondTheScope)**  
+  Proyecto personal de realidad virtual desarrollado en Unity y Oculus Quest 2 en colaboración con FabLab.
+
 
 ### 💼 Experiencia
 - **FabLab UV**: Instructor y programador de robótica, promuevo la educación tecnológica entre los jóvenes.
@@ -30,17 +39,23 @@ Hola, soy Alejandro Diaz, estudiante de Ingeniería Civil Informática en la Uni
 - [Schemify](https://github.com/Schemify)
 <!-- ORGANIZATIONS_END -->
 
+### 🧠 Habilidades Técnicas
 
-### 📚 Educación
-- **Ingeniería Civil Informática**, Universidad de Valparaíso (2020 - Actualidad)
+- **Lenguajes**: JavaScript/TypeScript, Python, C++
+- **Frameworks**: React, Next.js, Django, Express
+- **Otros**: Git, Unity, Figma, Postgres, Docker
 
-### 📈 Habilidades
-- Desarrollo Web y de Aplicaciones Móviles
-- Desarrollo en Realidad Virtual con Unity
-- Proficiencia en Git, Typescript y React
+### 📱 Áreas de Enfoque
+
+- Desarrollo Web Fullstack  
+- Ciencia de Datos  
+- Realidad Virtual (VR)  
+- Robótica Educativa
 
 ### 🌐 Idiomas
-- Inglés
-- Español
+- 🇪🇸 Español (Nativo)
+- 🇬🇧 Inglés (Intermedio/Avanzado)
+
+📬 Puedes escribirme a través de [LinkedIn](https://www.linkedin.com/in/alejandro-diaz-8a8221243/) o en GitHub directamente.
 
 ¡Gracias por visitar mi perfil! Para más información sobre mis proyectos y experiencias, sígueme aquí en GitHub.
